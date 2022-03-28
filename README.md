@@ -1,5 +1,5 @@
 # TranX
-A scalable solution for distributed log analysis for software systems and applications  <br />
+A scalable solution for distributed log analysis of software systems and applications  <br />
 Authored by: Kan Qi   <br />
 
 ## Usage
