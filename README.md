@@ -1,5 +1,5 @@
 # TranX
-Effective Automated Transaction Analysis Methods for Mobile and Web Applications   <br />
+A scalable solution for distributed log analysis for software systems and applications  <br />
 Authored by: Kan Qi   <br />
 
 ## Usage
